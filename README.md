@@ -18,11 +18,13 @@ Thank you for stopping by and I hope you find something here that interests you.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=author-sanjay&theme=radical)
 
 
+
+## Profile Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=author-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="author-sanjay" /> </p>
 
 <p align="left"> <a href="https://twitter.com/i__m_sanju" target="blank"><img src="https://img.shields.io/twitter/follow/i__m_sanju?logo=twitter&style=for-the-badge" alt="i__m_sanju" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
 
 <p align="left">
