@@ -71,8 +71,6 @@ Thank you for stopping by and I hope you find something here that interests you.
 
 
 
-## Streaks
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=author-sanjay&" alt="author-sanjay" />
 
 <!---
