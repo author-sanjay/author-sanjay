@@ -73,6 +73,10 @@ Thank you for stopping by and I hope you find something here that interests you.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=author-sanjay&" alt="author-sanjay" />
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=author-sanjay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 author-sanjay/author-sanjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
