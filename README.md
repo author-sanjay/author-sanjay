@@ -84,11 +84,7 @@ Thank you for stopping by and I hope you find something here that interests you.
 
 
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=author-sanjay&" alt="author-sanjay" />
-
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=author-sanjay"/></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=author-sanjay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
